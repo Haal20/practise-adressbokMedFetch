@@ -1,0 +1,2 @@
+# practise-sunVs.moon
+Skapa en enkel sida som när jag öppnar den visar en bild på en sol. När jag klickar på solen så skall bilden bytas ut till en bild på en måne. Vi skall använda javascript för att genomföra detta utan att webbläsaren laddas om när vi klickar på bilden.  Det vill säga vi skall inte skickas till en ny sida för att visa en ny bild och tillbaka. Ladda om sidan = fusk ;)  Här nedan har du bilderna jag har använt, eller så kan du leta upp egna!
